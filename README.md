@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
+![banner]([https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg](https://embed.pixiv.net/artwork.php?illust_id=131625673&mdate=1750050237))
 
 ## I'm {Azyuri}! :wave:
 
@@ -16,28 +16,18 @@
 
 ### 🛠️ Technical Stack
 
-* [cite_start]**Languages:** Python, Java, C/C++, SQL (MySQL, SQLite), XQuery, HTML, CSS, JavaScript [cite: 24, 25, 26]
-* [cite_start]**Tools & Environments:** Linux, Windows 11, VS Code, Google Colab, GitHub, Jira, Slack [cite: 28]
-* [cite_start]**Core Competencies:** Data Analytics, Machine Learning, Research, and Spatial Econometrics [cite: 5, 54, 55]
-
----
-
-### 🎓 Education & Achievements
-
-* **BS in Computer Science (Data Science)** | [cite_start]Mapúa University (Expected Oct 2026) [cite: 8, 9]
-* [cite_start]**Academic Honors:** Consistent Dean's Lister and President's Lister (A.Y. 2023–2026) [cite: 11, 21]
-* [cite_start]**Certifications:** NVIDIA Deep Learning, IBM Big Data (Spark/Hadoop), and Computer Vision [cite: 65, 66, 76]
+* **Languages:** Python, Java, C/C++, SQL (MySQL, SQLite), XQuery, HTML, CSS, JavaScript
+* **Tools & Environments:** Linux, Windows 11, VS Code, Google Colab, GitHub, Jira, Slack 
+* **Core Competencies:** Data Analytics, Machine Learning, Research, and Spatial Econometrics 
 
 ---
 
 ### 🧪 Key Projects
 
-* [cite_start]**[Thesis] Spatial Econometric Cross-Validation:** Enhancing Automated Valuation Models by addressing spatial data leakage[cite: 54, 55].
-* [cite_start]**Energy Efficiency Prediction:** Developed a Random Forest model to predict building thermal loads using UCI datasets[cite: 49, 50].
-* [cite_start]**Air Pollution Visualization:** Used AR and low-cost sensors for real-time environment monitoring[cite: 47, 48].
-* [cite_start]**Project UniMap:** Led the development of a mobile navigation app for educational institutions[cite: 42, 43].
-
----
+* [cite_start]**[Thesis] Spatial Econometric Cross-Validation:** Enhancing Automated Valuation Models by addressing spatial data leakage
+* [cite_start]**Energy Efficiency Prediction:** Developed a Random Forest model to predict building thermal loads using UCI datasets
+* [cite_start]**Air Pollution Visualization:** Used AR and low-cost sensors for real-time environment monitoring
+* [cite_start]**Project UniMap:** Led the development of a mobile navigation app for educational institutions
 
 ### 📊 GitHub Stats
 
@@ -50,12 +40,6 @@
 </details>
 
 ---
-
-### 📫 Connect with Me
-
-* [cite_start]**Email:** [heughricf@gmail.com](mailto:heughricf@gmail.com) [cite: 81]
-* [cite_start]**LinkedIn:** [linkedin.com/in/heughric-fernando-1b97b5324/](https://www.linkedin.com/in/heughric-fernando-1b97b5324/) [cite: 79]
-* [cite_start]**Portfolio:** [GitHub Profile](https://github.com/Azyur-i) [cite: 84]
 
 ---
 
