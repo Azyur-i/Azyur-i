@@ -2,15 +2,11 @@
 
 ## I'm {Azyuri}! :wave:
 
-<a href="https://github.com/ChungZH"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DChungZH&longCache=true"/></a>
-
-<a href="https://t.me/skyporker_channel"><img align="right" alt="Telegram channel" src="https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40skyporker_channel&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dskyporker_channel&longCache=true"/></a>
-
 🎊 Helloooooo
 
-~~Someone who likes doing projects related to Analyzing Datar~~ コーヒー。 🚀🥬 INFJ-T.
+~~Someone who likes doing projects related to Analyzing Data~~ コーヒー。 🚀🥬 INFJ-T.
 
-[cite_start]I am a **Computer Science student** specializing in **Data Science** at **Mapúa University**[cite: 8]. [cite_start]I am passionate about turning data into actionable insights through Machine Learning, Statistical Modeling, and Artificial Intelligence[cite: 5].
+I am a **Computer Science student** specializing in **Data Science** at **Mapúa University** I am passionate about turning data into actionable insights through Machine Learning, Statistical Modeling, and Artificial Intelligence.
 
 ---
 
