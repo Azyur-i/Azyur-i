@@ -10,22 +10,16 @@ I am a **Computer Science student** specializing in **Data Science** at **Mapúa
 
 ---
 
-### 🛠️ Technical Stack
-
 * **Languages:** Python, Java, C/C++, SQL (MySQL, SQLite), XQuery, HTML, CSS, JavaScript
 * **Tools & Environments:** Linux, Windows 11, VS Code, Google Colab, GitHub, Jira, Slack 
 * **Core Competencies:** Data Analytics, Machine Learning, Research, and Spatial Econometrics 
 
 ---
 
-### 🧪 Key Projects
-
 * **[Thesis] Spatial Econometric Cross-Validation:** Enhancing Automated Valuation Models by addressing spatial data leakage
 * **Energy Efficiency Prediction:** Developed a Random Forest model to predict building thermal loads using UCI datasets
 * **Air Pollution Visualization:** Used AR and low-cost sensors for real-time environment monitoring
 * **Project UniMap:** Led the development of a mobile navigation app for educational institutions
-
-### 📊 GitHub Stats
 
 <details>
 <summary>View My Activity</summary>
