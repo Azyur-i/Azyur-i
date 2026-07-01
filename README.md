@@ -1,34 +1,33 @@
 ![banner](https://embed.pixiv.net/artwork.php?illust_id=131625673&mdate=1750050237)
 
-## I'm {Azyuri}! :wave:
+# Azyuri.exe
 
-🎊 Helloooooo
+> quiet mode: online  
+> status: mehhhhhhh
+> `(´-ω-`)`
 
-~~Someone who likes doing projects related to Analyzing Data~~ コーヒー。 🚀🥬 INFJ-T.
+Hello. I’m **Azyuri**, a Computer Science student specializing in **Data Science** at **Mapúa University**.
 
-I am a **Computer Science student** specializing in **Data Science** at **Mapúa University** I am passionate about turning data into actionable insights through Machine Learning, Statistical Modeling, and Artificial Intelligence.
+I enjoy working on projects involving data analysis, machine learning, artificial intelligence, and statistical modeling.
 
----
-
-* **Languages:** Python, Java, C/C++, SQL (MySQL, SQLite), XQuery, HTML, CSS, JavaScript
-* **Tools & Environments:** Linux, Windows 11, VS Code, Google Colab, GitHub, Jira, Slack 
-* **Core Competencies:** Data Analytics, Machine Learning, Research, and Spatial Econometrics 
+`コーヒー required...` ☕
 
 ---
 
+### system specifications
 
-<details>
-<summary>View My Activity</summary>
+```text
+languages    Python, Java, C, C++, C#, SQL
+web          HTML, CSS, JavaScript, PHP
+databases    MySQL, SQLite, XQuery
+platforms    Linux, Windows 11, Google Colab
+tools        GitHub, VS Code, Jira, Slack
+interests    Data Analytics, Statistics
+```
 
-![Profile Details](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/0-profile-details.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/3-stats.svg" width="48%">
+  <img src="https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/2-most-commit-language.svg" width="48%">
+</p>
 
-![GitHub Stats](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/3-stats.svg)
-![Top Languages](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/2-most-commit-language.svg)
-
-</details>
-
----
-
----
-
-###### 💾 EOF
+thanks for reading... (｡･ω･｡)ﾉ
