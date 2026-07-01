@@ -2,13 +2,12 @@
 
 # Azyuri.exe
 
-> quiet mode: online  
 > status: mehhhhhhh
 > `(´-ω-`)`
 
 Hello. I’m **Azyuri**, a Computer Science student specializing in **Data Science** at **Mapúa University**.
 
-I enjoy working on projects involving data analysis, machine learning, artificial intelligence, and statistical modeling.
+I enjoy working on projects involving data analysis, data science, and statistical modeling.
 
 `コーヒー required...` ☕
 
