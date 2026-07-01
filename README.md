@@ -16,16 +16,14 @@ I am a **Computer Science student** specializing in **Data Science** at **Mapúa
 
 ---
 
-* **[Thesis] Spatial Econometric Cross-Validation:** Enhancing Automated Valuation Models by addressing spatial data leakage
-* **Energy Efficiency Prediction:** Developed a Random Forest model to predict building thermal loads using UCI datasets
-* **Air Pollution Visualization:** Used AR and low-cost sensors for real-time environment monitoring
-* **Project UniMap:** Led the development of a mobile navigation app for educational institutions
 
 <details>
 <summary>View My Activity</summary>
 
-![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azyur-i&theme=vue&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azyur-i&layout=compact&theme=vue)
+![Profile Details](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/0-profile-details.svg)
+
+![GitHub Stats](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/3-stats.svg)
+![Top Languages](https://raw.githubusercontent.com/Azyur-i/Azyur-i/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 
 </details>
 
